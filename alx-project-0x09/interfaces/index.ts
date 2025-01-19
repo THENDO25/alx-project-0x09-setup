@@ -18,3 +18,4 @@ export type RequestProps = {
 }
 
 export type ImageProps = Pick<GeneratedImageProps, "imageUrl" | "prompt">
+
